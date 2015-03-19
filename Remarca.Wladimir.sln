@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remarca.Wladimir.UI.WindowsForms", "Remarca.Wladimir.UI.WindowsForms\Remarca.Wladimir.UI.WindowsForms.csproj", "{3DE969A2-665E-4FD0-A411-8A4B4750A829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remarca.Wladimir.Models", "Remarca.Wladimir.Models\Remarca.Wladimir.Models.csproj", "{5C98CC46-39E9-4A24-82BD-B1E7018DFD55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remarca.Wladimir.DataAcess", "Remarca.Wladimir.DataAcess\Remarca.Wladimir.DataAcess.csproj", "{E89E4113-49FB-4B4D-8553-45A64DE2FA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remarca.Wladimir.Repository", "Remarca.Wladimir.Repository\Remarca.Wladimir.Repository.csproj", "{48BC9850-1BDE-4E23-925C-B81DECD5C8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remarca.Wladimir.Business", "Remarca.Wladimir.Business\Remarca.Wladimir.Business.csproj", "{B7AAF3A2-344D-429D-BC05-A8D09566A883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE969A2-665E-4FD0-A411-8A4B4750A829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE969A2-665E-4FD0-A411-8A4B4750A829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE969A2-665E-4FD0-A411-8A4B4750A829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE969A2-665E-4FD0-A411-8A4B4750A829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C98CC46-39E9-4A24-82BD-B1E7018DFD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C98CC46-39E9-4A24-82BD-B1E7018DFD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C98CC46-39E9-4A24-82BD-B1E7018DFD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C98CC46-39E9-4A24-82BD-B1E7018DFD55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89E4113-49FB-4B4D-8553-45A64DE2FA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89E4113-49FB-4B4D-8553-45A64DE2FA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89E4113-49FB-4B4D-8553-45A64DE2FA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89E4113-49FB-4B4D-8553-45A64DE2FA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BC9850-1BDE-4E23-925C-B81DECD5C8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BC9850-1BDE-4E23-925C-B81DECD5C8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BC9850-1BDE-4E23-925C-B81DECD5C8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BC9850-1BDE-4E23-925C-B81DECD5C8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7AAF3A2-344D-429D-BC05-A8D09566A883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AAF3A2-344D-429D-BC05-A8D09566A883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AAF3A2-344D-429D-BC05-A8D09566A883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AAF3A2-344D-429D-BC05-A8D09566A883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
